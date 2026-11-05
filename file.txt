@@ -1,1 +1,0 @@
-Hello from ZennoPoster API test!
